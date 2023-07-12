@@ -3,3 +3,5 @@ My Kitchen contains delicious food.
 chicken and mutton
 
 water
+beans
+pizza
